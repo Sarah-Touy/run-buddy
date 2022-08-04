@@ -12,3 +12,5 @@ https://lerantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sarah Touy
+
+### ©️2019 Run Buddy, Inc
